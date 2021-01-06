@@ -1,1 +1,1 @@
-created basic structure with html and css
+coffee houses project
